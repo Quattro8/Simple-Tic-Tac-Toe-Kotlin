@@ -10,6 +10,39 @@
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Simple_Tic-Tac-Toe__Kotlin_-task-build-test-results.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Simple_Tic-Tac-Toe__Kotlin_-task-build-tmp.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Simple_Tic-Tac-Toe__Kotlin_-task.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-For_loop_and_lists-Find_the_first_repeated_integer_in_a_list.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-For_loop_and_lists-List_indexes.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-For_loop_and_lists-Right_Rotation.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-For_loop_and_lists-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Getting_substrings-Case_insensitive.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Getting_substrings-Crash_your_app.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Getting_substrings-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Multi-dimensional_list-Correct_statements.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Multi-dimensional_list-Indexing_rules.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Multi-dimensional_list-Print_result.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Multi-dimensional_list-Shapeshifter.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Multi-dimensional_list-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Processing_strings-Determine_the_value.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Processing_strings-Generating_passwords.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Processing_strings-Palindrome.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Processing_strings-Parse_url.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Processing_strings-The_lucky_ticket.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Processing_strings-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Structural_vs_referential_equality-How_to_compare.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Structural_vs_referential_equality-Kings_of_Sweden.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Structural_vs_referential_equality-Referential_equality.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Structural_vs_referential_equality-The_same_object.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Structural_vs_referential_equality-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Structural_vs_referential_equality-True_captain.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-When_expression-Find_the_output.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-When_expression-FTN-Numbers.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-When_expression-Statements.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-When_expression-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Work_with_MutableLists-Adding_values.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Work_with_MutableLists-Empty.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Work_with_MutableLists-Printing_a_list.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Work_with_MutableLists-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Work_with_MutableLists-Yet_another_list.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).util.main" target="8" />
     </bytecodeTargetLevel>
   </component>
